@@ -1,0 +1,14 @@
+2021-03-12 16:58:21,432 INFO  [log] id is Neha
+2021-03-12 16:58:22,872 INFO  [log] get Response code 200
+2021-03-12 16:58:22,931 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"47.31.49.220","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2021-03-12 16:58:22,947 INFO  [log] id is Divya
+2021-03-12 16:58:23,335 INFO  [log] get Response code 200
+2021-03-12 16:58:23,337 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"47.31.49.220","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2021-03-12 16:58:23,345 INFO  [log] id is Suman
+2021-03-12 16:58:23,996 INFO  [log] get Response code 200
+2021-03-12 16:58:23,998 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"47.31.49.220","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2021-03-12 16:58:24,015 INFO  [log] id is admin
+2021-03-12 16:58:24,599 INFO  [log] get Response code 200
+2021-03-12 16:58:24,600 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"47.31.49.220","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2021-03-12 16:58:26,515 INFO  [log] 3611
+2021-03-12 16:58:26,516 INFO  [log] 3620
